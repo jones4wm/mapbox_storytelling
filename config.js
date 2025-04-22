@@ -15,7 +15,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Mapping the Color Purple',
+    title: 'Mapping the Color Purple Title ',
     subtitle: 'Significant places mentioned by Alice Walker in her book',
     byline: 'Will Jones',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
