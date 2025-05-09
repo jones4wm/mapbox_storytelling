@@ -54,12 +54,27 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
-            image: './assets/alice_walker_childhood_home.jpg',
-            description: 'This was the place in Georgia where Celie lived her whole life, in relative isolation and ignorance',
+            title: 'Hurston does this through movement and economics with Janie and Tea Cake',
+            image: './assets/their_eyes_were_watching_god',
+            description: ' Throughout *Their Eyes Were Watching God*, we see Janie’s empowerment through movement in particular. 
+        First, she runs away from her first husband. Later, she meets Tea Cake, and together they engage in business. 
+        Some may critique the novel for portraying Janie as finding her identity through men. While this may be partially true, 
+        what makes Janie empowered in this situation is that she is with Tea Cake on her own terms. 
+        
+        Here is one instance of Janie doing business with Tea Cake on her own terms: 
+        
+        <blockquote>
+        “Tea Cake and Janie decided to stay since they wanted to make another season on the muck. 
+        There was nothing to do, after they had gathered several bushels of dried beans to save over 
+        and sell to the planters in the fall.” (Hurston 139)
+        </blockquote>
+        
+        This passage shows Janie engaged in business willingly and collaboratively, unlike earlier in the novel 
+        when she was forced to work in a store by her husband Jody. Through these two examples, 
+        Hurston shows how women can be both shackled and freed through economics.
+    `,',
             location: {
-                center: [-83.5573651, 32.5573651], 
-                zoom: 6.5,
+                center: [-81.38478, 25.85764],                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
