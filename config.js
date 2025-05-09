@@ -74,7 +74,7 @@ This is one of the ways Hurston shows empowerment even in less than ideal circum
 
 With Shug supporting Celie, Walker shows how female empowerment can be a collective journey, not just a solitary one.`,
     location: {
-        center: [-10.378889436404226, 6.251275915595865],
+        center: [-90.0551074700509, 35.15030216109993],
         zoom: 8,
         pitch: 45,
         bearing: 0
@@ -152,7 +152,7 @@ Faulkner uses these examples not to uplift female characters, but to critique th
                 suggesting a more hopeful or resistant narrative than Faulkner offers.
             `,
             location: {
-                center: [-89.26806244331303, 30.400637931513852],
+                center: [-81.38478, 25.85764],
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -175,7 +175,7 @@ Faulkner uses these examples not to uplift female characters, but to critique th
                 suggesting a more hopeful or resistant narrative than Faulkner offers.
             `,
             location: {
-                center: [-89.26806244331303, 30.400637931513852],
+                center: [-90.0551074700509, 35.15030216109993],
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
