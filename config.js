@@ -40,7 +40,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Hurston: Empowerment Through Movement and Economics',
-            image: './assets/their_eyes_were_watching_god.jpg', // Add proper extension
+            image: './assets/their_eyes_were_watching_god.jpg',
             description: `
                 Throughout <em>Their Eyes Were Watching God</em>, we see Janie’s empowerment through movement in particular. 
                 First, she runs away from her first husband. Later, she meets Tea Cake, and together they engage in business. 
@@ -85,9 +85,21 @@ var config = {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
+            title: 'Walker mainly shows empowerment through economic purchases and business.',
             image: './assets/firestone_farm.jpg',
-            description: `The Olinka people are a fictional African tribe in <em>The Color Purple</em> who experience colonial oppression at the hands of the Englishmen running a rubber factory. Walker uses them to deepen her theme of oppression and cultural identity.`,
+            description: `
+                Walker’s novel has more emphasis on the economic side than Hurston’s. With Celie moving to Tennessee and then starting her pants business with the help of Shug:
+
+                <blockquote>
+                “Then finally one day I made the perfect pair of pants. For my sugar, naturally. They soft dark blue jersey with teeny patches of red. But what makes them so good is, they totally comfortable.” (Walker 211)
+                </blockquote>
+
+                <blockquote>
+                “She laugh. Let’s us put advertisements in the paper, she say. And let’s us raise you prices a hefty notch. And let’s us just go ahead and give you this dining room for your factory and git you some more women in here to cut and sew, while you sit back and design. You making your living, Celie, she say. Girl, you on your way.” (Walker 213)
+                </blockquote>
+
+                With Shug helping Celie, Walker shows us how female empowerment is a collective journey, not just a solitary one.
+            `,
             location: {
                 center: [-10.378889436404226, 6.251275915595865],
                 zoom: 8,
