@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Main Thesis',
             image: './assets/as_i_lay_dying.jpg'
-            description: '',
+            description: 'Please for the love of God work',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
