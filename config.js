@@ -21,7 +21,7 @@ var config = {
     alignment: 'centered',
     hidden: false,
     title: 'Main Thesis',
-    image: './assets/as_i_lay_dying.png',
+    image: './assets/as_i_lay_dying.jpg',
     description: `Throughout both of their novels Hurston and Walker showcase female empowerment through both movement and economic purchases. There are a lot more instances of movement and economic purchases by women in these novels than there is in As I Lay Dying. Through both the text and the mapping data we will show how Hurston and Walker show a more positive vision of the south than Faulkner. Hurston and Walker mainly show a more positive vision of the south by showing how women empower themselves through movement and economics even in dire times. Ward also shows female empowerment but her work is more focused on the personal than the economic.`,
     location: {
         center: [-90.3150946, 38.6605671],
@@ -65,7 +65,7 @@ This is one of the ways Hurston shows empowerment even in less than ideal circum
     alignment: 'left',
     hidden: false,
     title: 'Walker Mainly Shows Empowerment Through Economic Purchases and Business',
-    image: './assets/the_color_purple.jpg',
+    image: './assets/color_purple_cover.jpg',
     description: `Walker’s novel places more emphasis on economic empowerment than Hurston’s. Celie moves to Tennessee and starts her pants business with Shug’s help:
 
 “Then finally one day I made the perfect pair of pants. For my sugar, naturally. They soft dark blue jersey with teeny patches of red. But what makes them so good is, they totally comfortable.” (Walker 211)
@@ -168,7 +168,7 @@ Faulkner uses these examples not to uplift female characters, but to critique th
             alignment: 'fully',
             hidden: false,
             title: 'Data analysis for The Color Purple',
-            image: './assets/the_color_purple.jpg',
+            image: './assets/color_purple_cover.jpg',
             description: `
                 One reason may be that being a white man may paradoxically make Faulkner more inclined to write a negative depiction of the South.
                 Hurston, Walker, and Ward more often portray how Black women empower themselves—even in dire circumstances—
