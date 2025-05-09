@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
-            image: './assets/color_purple_cover.jpg',
-            description: 'An epistolary novel that tells the story of Celie, a black woman who lived in rural isolation in Georgia and her journey of self discovery',
+            title: 'Main Thesis',
+            image: 
+            description: 'Throughout both of their novels Hurston and Walker showcase female empowerment through both movement and economic purchases. There are a lot more instances of movement and economic purchases by women in these novels than their is in As I Lay Dying. Through both the text and the mapping data we will show how Hurston and Walker show a more positive vision of the south than Faulkner. Hurston and Walker mainly show a more positive vision of the south by showing how women empower themselves through movement and economics even in dire times. Ward also shows female empowerment but here work is more focused on the personal than the economic.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
