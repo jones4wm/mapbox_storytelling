@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Main Thesis',
             image: './assets/as_i_lay_dying.jpg'
-            description: 'Throughout both of their novels Hurston and Walker showcase female empowerment through both movement and economic purchases. There are a lot more instances of movement and economic purchases by women in these novels than there is in As I Lay Dying. Through both the text and the mapping data we will show how Hurston and Walker show a more positive vision of the south than Faulkner. Hurston and Walker mainly show a more positive vision of the south by showing how women empower themselves through movement and economics even in dire times. Ward also shows female empowerment but her work is more focused on the personal than the economic.',
+            description: '',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
