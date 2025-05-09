@@ -86,7 +86,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Walker mainly shows empowerment through economic purchases and business.',
-            image: './assets/firestone_farm.jpg',
+            image: './assets/the_color_purple.jpg',
             description: `
                 Walker’s novel has more emphasis on the economic side than Hurston’s. With Celie moving to Tennessee and then starting her pants business with the help of Shug:
 
@@ -116,11 +116,26 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: `The novel ends with Celie meeting her long-lost children, who she believed to be dead.`,
+            title: 'As I Lay Dying vs Salvage the Bones',
+            image: './assets/salvage_the_bones.jpg',
+            description: `
+                Even though <em>As I Lay Dying</em> has specific examples of economic purchases by women, they are done through the male gaze, and therefore do not serve as shining beacons of female empowerment.
+
+                <em>Salvage the Bones</em> doesn’t have many purchases, but it does show Esch standing up to Manny — female empowerment through personal growth rather than economic independence.
+
+                <blockquote>
+                "I loved you!" This is Medea wielding the knife. This is Medea cutting. I rake my fingernails across his face, leave pink scratches that turn red, fill with blood." (Ward 204)
+                </blockquote>
+
+                <blockquote>
+                "I'm going to beat the shit out of him," Randall said, the words whistling out of him...<br>
+                "No, Randall," I said. "You don't need to. I already did." Randall snorted, but he didn't let Junior go, and he squeezed his forearm to his waist, folding my arm into his, pulling me with him. We walked to Big Henry's front door together.” (Ward 244)
+                </blockquote>
+
+                In <em>Salvage the Bones</em>, Jesmyn Ward portrays women as more empowered through their personal social relationships. Despite having fewer economic transactions than in Faulkner’s work, women are given more agency to act and defend their own interests.
+            `,
             location: {
-                center: [-41.47212410646295, 34.781162343274076],
+                center: [-89.26806244331303, 30.400637931513852],
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
