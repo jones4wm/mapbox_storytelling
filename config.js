@@ -46,7 +46,8 @@ An important takeaway from this passage is how it shows Janie doing business on 
 
 At one point Tea Cake is being irresponsible by gambling away all the money. At this point in the novel Janie takes matters into her own hands: “Tea Cake was spending and doing out his own pocket, so Janie never told him about the two hundred dollars she had pinned inside her shirt next to her skin.” (Hurston 117)
 
-This is one of the ways Hurston shows empowerment even in less than ideal circumstances—Janie is taking control of her money to forge her own path.`,
+This is one of the ways Hurston shows empowerment even in less than ideal circumstances—Janie is taking control of her money to forge her own path.
+Will and Daniel`,
     location: {
         center: [-81.38478, 25.85764],
         zoom: 6.5,
@@ -72,7 +73,8 @@ This is one of the ways Hurston shows empowerment even in less than ideal circum
 
 “She laugh. ‘Let’s us put advertisements in the paper,’ she say. ‘And let’s us raise your prices a hefty notch. And let’s us just go ahead and give you this dining room for your factory and git you some more women in here to cut and sew, while you sit back and design. You making your living, Celie,’ she say. ‘Girl, you on your way.’” (Walker 213)
 
-With Shug supporting Celie, Walker shows how female empowerment can be a collective journey, not just a solitary one.`,
+With Shug supporting Celie, Walker shows how female empowerment can be a collective journey, not just a solitary one.
+Will and Daniel`,
     location: {
         center: [-90.0551074700509, 35.15030216109993],
         zoom: 8,
@@ -104,7 +106,8 @@ With Shug supporting Celie, Walker shows how female empowerment can be a collect
 
 Despite allowing women the agency to make purchases, Faulkner often depicts them as victims of a patriarchal and exploitative society. In one disturbing scene, a man named MacGowan impersonates a pharmacist to give a young woman a box of pills, claiming it is abortion medication, and insists she must follow up "down in the cellar"—a moment laden with implications of abuse.
 
-Faulkner uses these examples not to uplift female characters, but to critique the deeply embedded misogyny and social decay in Southern life. In contrast, Ward’s *Salvage the Bones* portrays empowerment through emotional resilience, suggesting a more personal but nonetheless powerful form of agency.`,
+Faulkner uses these examples not to uplift female characters, but to critique the deeply embedded misogyny and social decay in Southern life. In contrast, Ward’s *Salvage the Bones* portrays empowerment through emotional resilience, suggesting a more personal but nonetheless powerful form of agency.
+Will and Matt`,
     location: {
         center: [-89.26806244331303, 30.400637931513852],
         zoom: 3,
@@ -127,7 +130,7 @@ Faulkner uses these examples not to uplift female characters, but to critique th
                 One reason may be that being a white man may paradoxically make Faulkner more inclined to write a negative depiction of the South.
                 Hurston, Walker, and Ward more often portray how Black women empower themselves—even in dire circumstances—
                 suggesting a more hopeful or resistant narrative than Faulkner offers.
-            `,
+            Will and Matt`,
             location: {
                 center: [-89.26806244331303, 30.400637931513852],
                 zoom: 3,
@@ -141,96 +144,116 @@ Faulkner uses these examples not to uplift female characters, but to critique th
             onChapterExit: []
         },
         {
-            id: 'chapter-five',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Data analysis for Their Eyes Were Watching God',
-            image: './assets/their_eyes_were_watching_god.jpg',
-            description: `
-                One reason may be that being a white man may paradoxically make Faulkner more inclined to write a negative depiction of the South.
-                Hurston, Walker, and Ward more often portray how Black women empower themselves—even in dire circumstances—
-                suggesting a more hopeful or resistant narrative than Faulkner offers.
-            `,
-            location: {
-                center: [-81.38478, 25.85764],
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
+    id: 'chapter-five',
+    alignment: 'fully',
+    hidden: false,
+    title: 'Data Analysis for Their Eyes Were Watching God',
+    image: './assets/their_eyes_were_watching_god.jpg',
+    description: `In Hurston’s *Their Eyes Were Watching God*, there are five recorded economic purchases by men and four by women. Although the number for women is slightly lower, it represents a significant leap compared to Faulkner’s *As I Lay Dying*, which features only one.
+
+These purchases are distributed across various parts of Florida, including Lake City, Orlando, and West Palm Beach. This geographical spread highlights not only women's economic engagement but also their freedom of movement. As Janie journeys through these locations, each purchase underscores her growing independence and agency—central to Hurston’s portrayal of female empowerment.
+Will and Daniel`,
+    location: {
+        center: [-81.38478, 25.85764],
+        zoom: 3,
+        pitch: 30,
+        bearing: 0
+    },
+    mapAnimation: 'flyTo',
+    rotateAnimation: true,
+    callback: '',
+    onChapterEnter: [],
+    onChapterExit: []
+},
         {
-            id: 'chapter-six',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Data analysis for The Color Purple',
-            image: './assets/color_purple_cover.jpg',
-            description: `
-                One reason may be that being a white man may paradoxically make Faulkner more inclined to write a negative depiction of the South.
-                Hurston, Walker, and Ward more often portray how Black women empower themselves—even in dire circumstances—
-                suggesting a more hopeful or resistant narrative than Faulkner offers.
-            `,
-            location: {
-                center: [-90.0551074700509, 35.15030216109993],
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
+    id: 'chapter-six',
+    alignment: 'fully',
+    hidden: false,
+    title: 'Data Analysis for The Color Purple',
+    image: './assets/color_purple_cover.jpg',
+    description: `In *The Color Purple*, there are ten purchases by women and only four by men. This novel most clearly illustrates how women gain freedom through economics and movement—especially Celie, who relocates from Georgia to Memphis, Tennessee.
+
+Celie’s journey toward independence is symbolized by her move and the creation of her own business. As shown in earlier quotes, she is not only able to support herself but thrives economically, emphasizing Walker’s theme of female empowerment through financial and geographic mobility.
+Will and Daniel`,
+    location: {
+        center: [-90.0551074700509, 35.15030216109993],
+        zoom: 3,
+        pitch: 30,
+        bearing: 0
+    },
+    mapAnimation: 'flyTo',
+    rotateAnimation: true,
+    callback: '',
+    onChapterEnter: [],
+    onChapterExit: []
+},
         {
-            id: 'chapter-seven',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Data analysis for As I Lay Dying',
-            image: './assets/as_i_lay_dying.jpg',
-            description: `
-                One reason may be that being a white man may paradoxically make Faulkner more inclined to write a negative depiction of the South.
-                Hurston, Walker, and Ward more often portray how Black women empower themselves—even in dire circumstances—
-                suggesting a more hopeful or resistant narrative than Faulkner offers.
-            `,
-            location: {
-                center: [-89.26806244331303, 30.400637931513852],
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
+    id: 'chapter-seven',
+    alignment: 'fully',
+    hidden: false,
+    title: 'Data Analysis for As I Lay Dying',
+    image: './assets/as_i_lay_dying.jpg',
+    description: `In *As I Lay Dying*, there is only one purchase made by a woman, compared to six made by men. This disparity reflects Faulkner’s more cynical portrayal of the South and the limited roles women are allowed to occupy within it.
+
+Even the single purchase by a woman is shown through a male perspective and is framed negatively—it involves buying abortion medication. Women in Faulkner's narrative are rarely granted economic agency, and when they do engage with the economy, it is depicted as a response to desperation rather than empowerment.
+Will and Matt`,
+    location: {
+        center: [-89.26806244331303, 30.400637931513852],
+        zoom: 3,
+        pitch: 30,
+        bearing: 0
+    },
+    mapAnimation: 'flyTo',
+    rotateAnimation: true,
+    callback: '',
+    onChapterEnter: [],
+    onChapterExit: []
+},
         {
-            id: 'chapter-eight',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Data analysis for Salvage the Bones',
-            image: './assets/salvage_the_bones.jpg',
-            description: `
-                One reason may be that being a white man may paradoxically make Faulkner more inclined to write a negative depiction of the South.
-                Hurston, Walker, and Ward more often portray how Black women empower themselves—even in dire circumstances—
-                suggesting a more hopeful or resistant narrative than Faulkner offers.
-            `,
-            location: {
-                center: [-89.26806244331303, 30.400637931513852],
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        }
-    ]
+    id: 'chapter-eight',
+    alignment: 'fully',
+    hidden: false,
+    title: 'Data Analysis for Salvage the Bones',
+    image: './assets/salvage_the_bones.jpg',
+    description: `In *Salvage the Bones*, there are three total instances of women partaking in economic activity—significantly more than in Faulkner's *As I Lay Dying*. This contrast highlights Faulkner’s more negative portrayal of the South. 
+
+Despite the harsh conditions in Jesmyn Ward’s novel, female characters still manage to make purchases and move with some freedom. More importantly, they are granted social agency, standing up for themselves in the face of oppression and mistreatment. However, many of these economic actions take the form of theft rather than formal exchange, reflecting the extreme poverty of their environment.
+
+This suggests that Ward sees possibility and empowerment even under dire circumstances. The women in the novel are resilient and resourceful, solving problems on their own terms rather than relying on men, portraying a more hopeful and dynamic view of the South. 
+Will and Matt`,
+    location: {
+        center: [-89.26806244331303, 30.400637931513852],
+        zoom: 3,
+        pitch: 30,
+        bearing: 0
+    },
+    mapAnimation: 'flyTo',
+    rotateAnimation: true,
+    callback: '',
+    onChapterEnter: [],
+    onChapterExit: []
+},
+    {
+    id: 'chapter-nine',
+    alignment: 'fully',
+    hidden: false,
+    title: 'What to Make of All This?',
+    image: './assets/conclusion.png',
+    description: `Our main takeaway from the data—especially when examining the works of Hurston and Walker—is that they offer a more hopeful and empowering view of the South. While their characters face significant hardships, both Hurston’s and Walker’s protagonists ultimately emerge stronger and more independent by the end of their respective stories.
+
+Although the data can’t fully capture the emotional depth or complexity of these journeys, it does provide a visual representation of the freedom and agency their characters demonstrate—particularly in terms of movement and economic independence. This stands in stark contrast to Faulkner’s darker, more cynical depiction of the South. Ward also portrays female empowerment, though her focus is more personal than economic, distinguishing her approach from Hurston’s and Walker’s.
+Will and Daniel`,
+    location: {
+        center: [-89.26806244331303, 30.400637931513852],
+        zoom: 3,
+        pitch: 30,
+        bearing: 0
+    },
+    mapAnimation: 'flyTo',
+    rotateAnimation: true,
+    callback: '',
+    onChapterEnter: [],
+    onChapterExit: []
+},
+]
 };
