@@ -71,8 +71,18 @@ var config = {
         
         This passage shows Janie engaged in business willingly and collaboratively, unlike earlier in the novel 
         when she was forced to work in a store by her husband Jody. Through these two examples, 
-        Hurston shows how women can be both shackled and freed through economics.
-    `,',
+        Hurston shows how women can be both shackled and freed through economics. At one point in the novel, Tea Cake is being irresponsible by gambling away all their money. 
+        In response, Janie takes matters into her own hands: 
+
+        <blockquote>
+        “Tea Cake was spending and doing out his own pocket, so Janie never told him about 
+        the two hundred dollars she had pinned inside her shirt next to her skin.” (Hurston 117)
+        </blockquote>
+
+        This is one of the ways Hurston shows female empowerment even in less-than-ideal circumstances. 
+        Janie secretly sets aside money, demonstrating economic agency and personal foresight. 
+        She is actively taking control over her financial future, rather than being completely dependent on Tea Cake.
+    ',
             location: {
                 center: [-81.38478, 25.85764],                 zoom: 6.5,
                 pitch: 60,
